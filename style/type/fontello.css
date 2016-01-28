@@ -12,11 +12,11 @@
 }
 @font-face {
   font-family: 'fontello1';
-  src: url('../font/fontello.eot?64355963');
-  src: url('../font/fontello.eot?64355963#iefix') format('embedded-opentype'),
-       url('../font/fontello.woff?64355963') format('woff'),
-       url('../font/fontello.ttf?64355963') format('truetype'),
-       url('../font/fontello.svg?64355963#fontello') format('svg');
+  src: url('fontello/fontello1.eot');
+  src: url('fontello/fontello1.eot#iefix') format('embedded-opentype'),
+       url('fontello/fontello1.woff') format('woff'),
+       url('fontello/fontello1.ttf') format('truetype'),
+       url('fontello/fontello1.svg#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -605,6 +605,6 @@
 .icon-s-soundcloud:before { content: '\f348'; } /* '' */
 .icon-s-behance:before { content: '\f34e'; } /* '' */
 .icon-h-qq:before { content: '\e802'; } /* '' */
-.icon-h-weibo:before { content: '\e803'; } /* '' */
+.icon-h-weibo:before { content: '\e802'; } /* '' */
 .icon-h-weixin:before { content: '\e805'; } /* '' */
 .icon-circle-empty:before { content: '\e800'; } /* '' */
