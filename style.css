@@ -277,7 +277,7 @@ blockquote small {
     height:350px;
 }
 /*-----------------------------------------------------------------------------------*/
-/*	02. FOOTER
+/*	02.  
 /*-----------------------------------------------------------------------------------*/
 .footer {
     background: #292929;
@@ -702,6 +702,18 @@ footer .post-list li em {
     -o-transition: all 200ms ease-in;
     -moz-transition: all 200ms ease-in;
 }
+.social .icon-h-qq {
+    border-color: #d8545d;
+    color: #d8545d;
+}
+.social .icon-h-weibo {
+    border-color: #d8545d;
+    color: #d8545d;
+}
+.social .icon-h-weixin {
+    border-color: #d8545d;
+    color: #d8545d;
+}
 .social .icon-s-pinterest {
     border-color: #d8545d;
     color: #d8545d;
@@ -833,6 +845,15 @@ footer .post-list li em {
 .social .icon-s-soundcloud {
     border-color: #ff8b45;
     color: #ff8b45;
+}
+.social a:hover .icon-h-qq {
+    background-color: #faaa5e
+}
+.social a:hover .icon-h-weibo {
+    background-color: #faaa5e
+}
+.social a:hover .icon-h-weixin {
+    background-color: #faaa5e
 }
 .social a:hover .icon-s-pinterest {
     background-color: #d8545d
