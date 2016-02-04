@@ -3375,12 +3375,13 @@ figure.main,
 	    margin-bottom: 30px
 	}
 	.filter {
-	    text-align: left
+	    text-align: center
 	}
 	.filter li {
-	    margin-right: 10px
+	    margin-right: 15px
 	}
 	.filter li:before {
+        content:"/";
 	    display: none
 	}
 	.fix-portfolio .items {
